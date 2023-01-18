@@ -1,0 +1,10 @@
+.title{
+    color:gray;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    line-height: 30px ;
+    font-style: italic;
+    font-weight: 800;
+    text-indent: 25px;
+    letter-spacing: 7px;
+}
