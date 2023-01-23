@@ -1,0 +1,13 @@
+
+.block{
+    background-color: rgb(110, 248, 214);
+    border-radius: 5px;
+}
+
+.block{
+    position: fixed;
+    right: 50px;
+    height: 300px;
+    bottom: 100px;
+    left: 50%;
+}

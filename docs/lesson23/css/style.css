@@ -1,0 +1,24 @@
+.wrapper{
+    padding: 100px 100px 30vh;
+    height: 100vh;
+}
+
+.block{
+    height: 100%;
+    box-shadow: 0 0 10px rgb(83, 83, 83);
+    border-radius: 5px;
+    background: url("../images/aks.jpg") no-repeat center, linear-gradient(#a75be6, #66e0ad);
+    background-size: contain;
+}
+
+.block-2{
+    height: 100%;
+    box-shadow: 0 0 10px rgb(83, 83, 83);
+    border-radius: 5px;
+    background-image: url("../images/aks.jpg"), linear-gradient(#eaacec, #7cf8d3);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
