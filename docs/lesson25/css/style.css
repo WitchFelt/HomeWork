@@ -1,0 +1,11 @@
+
+.block{
+    background-color: rgb(180, 140, 218);
+    height: 300px;
+    width: 300px;
+
+}
+
+.block{
+    transform: translateX(10%) rotate(-30deg);
+}
