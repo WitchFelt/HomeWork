@@ -1,0 +1,32 @@
+.container{
+    position: relative;
+}
+h1{
+    font-size: 20px;
+    text-align: center;
+}
+
+.title::before{
+    content: "";
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border-radius: 2px;
+    background-color: rgb(27, 30, 206);
+    top: 0;
+    bottom: 0;
+    margin: auto -15px;
+
+}
+
+.title::after{
+    content: "";
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border-radius: 2px;
+    background-color: rgb(255, 0, 0);
+    top: 0;
+    bottom: 0;
+    margin: auto ;
+}
