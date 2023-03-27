@@ -43,4 +43,6 @@ $(function () {
     $(this).toggleClass('program__acc-link--active')
     $(this).children('.program__acc-text').slideToggle()
   })
+
+
 })
